@@ -1,0 +1,78 @@
+/*  For reference, the colors used on the screen are #eee and #999  */
+
+#fixed {
+
+	font-size: 22px;
+}
+
+h1 {
+
+	font-size: 36px;
+}
+
+
+#fixed {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	padding-top: 20px;
+	background-color: #ddd;
+	width:200px;
+	height: 80px;
+	margin: 0px auto;
+	text-align: center;
+	
+	
+
+}
+
+
+#wrapper {
+
+
+
+}
+
+
+#content {
+	position: relative;
+	color: black;
+	line-height: 1.5;
+	position: relative;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+
+
+#relative {
+	position: relative;
+	background-color: #ddd;
+	height: 150px;
+	top:0px;
+	left:0px;
+	font-size: 22px;
+	text-align: center;
+	
+}
+
+
+
+#absolute {
+	position: absolute;
+	background-color: #999;
+	width: 200px;
+	top:84px;
+	left: 380px;
+	float: right;
+	text-align: center;
+
+
+}
+
+
+
+
+
+
+
